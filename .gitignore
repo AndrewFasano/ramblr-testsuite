@@ -1,0 +1,4 @@
+data/
+csmith
+platform.info
+.*.sw*
